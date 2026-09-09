@@ -1,0 +1,31 @@
+{
+  "version": "0.1",
+  "scope": "Windows 10/11 x64 TTY, partial message-display translation",
+  "game_messages": 285,
+  "new_diagnostic_messages": 3,
+  "catalogue_roundtrip": "passed for all 288 entries",
+  "generator_determinism": "passed",
+  "python_decoder_model": "passed",
+  "python_wrap_model_cases": 3744,
+  "python_wrap_model": "passed; independent model, not actual C execution",
+  "unchanged_upstream_files": 1262,
+  "modified_upstream_files": [
+    "win/tty/topl.c",
+    "sys/windows/GNUmakefile",
+    "sys/windows/windmain.c"
+  ],
+  "save_structures_modified": false,
+  "global_buffer_sizes_modified": false,
+  "c_tests_executed_here": false,
+  "windows_build_executed_here": false,
+  "windows_runtime_tested_here": false,
+  "complete_russian_localization": false,
+  "unicode_user_input_implemented": false,
+  "full_history_menu_translation_implemented": false,
+  "global_translation_coverage_percent": null,
+  "bash_syntax_checks": "passed",
+  "installer_first_apply": "passed on a local test tree",
+  "installer_repeat_apply": "passed",
+  "installer_rejects_local_changes": "passed with no file changes",
+  "installer_rejects_corrupt_payload": "passed"
+}

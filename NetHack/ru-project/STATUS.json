@@ -1,0 +1,12 @@
+{
+  "stage": "preparation_only_not_localized",
+  "upstream_tag": "NetHack-5.0.0_Released",
+  "upstream_commit": "16ff59115315917b93185d026aeefea06db9b0f4",
+  "game_source_modified": false,
+  "game_translation_integrated": false,
+  "windows_build_tested": false,
+  "runtime_utf8_tested": false,
+  "bash_syntax_checked": true,
+  "upstream_files_verified_unchanged": 1265,
+  "original_archive_sha256": "49974c27bc1812f4d47ad4ed14eeb4d9f5e58dcb2eec4eb23132d71254953934"
+}

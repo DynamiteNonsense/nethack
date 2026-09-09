@@ -1,0 +1,2357 @@
+[
+  {
+    "en": "That feels like a boulder.",
+    "ru": "На ощупь это валун.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:359"
+    ]
+  },
+  {
+    "en": "There is a boulder in your way.",
+    "ru": "Путь преграждает валун.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:406",
+      "src/trap.c:5457"
+    ]
+  },
+  {
+    "en": "You are too full to eat the bars.",
+    "ru": "Вы слишком сыты, чтобы съесть решётку.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:672"
+    ]
+  },
+  {
+    "en": "You eat the boulder.",
+    "ru": "Вы съедаете валун.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:734"
+    ]
+  },
+  {
+    "en": "You crash to the floor!",
+    "ru": "Вы с грохотом падаете на пол!",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:862"
+    ]
+  },
+  {
+    "en": "There is an obstacle there.",
+    "ru": "Там препятствие.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1022",
+      "src/hack.c:1085"
+    ]
+  },
+  {
+    "en": "You cannot pass through the bars.",
+    "ru": "Вы не можете пройти сквозь решётку.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1034"
+    ]
+  },
+  {
+    "en": "That drawbridge is up!",
+    "ru": "Этот подъёмный мост поднят!",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1051"
+    ]
+  },
+  {
+    "en": "You ooze under the door.",
+    "ru": "Вы просачиваетесь под дверью.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1082"
+    ]
+  },
+  {
+    "en": "You try to ooze under the door, but can't squeeze your possessions through.",
+    "ru": "Вы пытаетесь просочиться под дверью, но ваши вещи не пролезают.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1095"
+    ]
+  },
+  {
+    "en": "Ouch!  You bump into a door.",
+    "ru": "Ай! Вы натыкаетесь на дверь.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1119"
+    ]
+  },
+  {
+    "en": "That door is closed.",
+    "ru": "Эта дверь закрыта.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1132"
+    ]
+  },
+  {
+    "en": "You can't move diagonally into an intact doorway.",
+    "ru": "Нельзя войти по диагонали в дверной проём с целой дверью.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1147"
+    ]
+  },
+  {
+    "en": "You cannot pass that way.",
+    "ru": "Вы не можете там пройти.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1159"
+    ]
+  },
+  {
+    "en": "You are carrying too much to get through.",
+    "ru": "У вас слишком много вещей, чтобы протиснуться.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1163"
+    ]
+  },
+  {
+    "en": "Your body is too large to fit through.",
+    "ru": "Ваше тело слишком велико, чтобы протиснуться.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1167"
+    ]
+  },
+  {
+    "en": "You can't move diagonally out of an intact doorway.",
+    "ru": "Нельзя выйти по диагонали из дверного проёма с целой дверью.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1212"
+    ]
+  },
+  {
+    "en": "You stop, unsure which way to go.",
+    "ru": "Вы останавливаетесь, не зная, куда идти.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1411"
+    ]
+  },
+  {
+    "en": "You disentangle yourself.",
+    "ru": "Вы выпутываетесь.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1606"
+    ]
+  },
+  {
+    "en": "You move within the chain's reach.",
+    "ru": "Вы перемещаетесь в пределах длины цепи.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:1647"
+    ]
+  },
+  {
+    "en": "You tumble in place.",
+    "ru": "Вы кувыркаетесь на месте.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:2347",
+      "src/sit.c:418"
+    ]
+  },
+  {
+    "en": "You can't control your movements very well.",
+    "ru": "Вам плохо удаётся управлять своими движениями.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:2351"
+    ]
+  },
+  {
+    "en": "It's hard to walk in thin air.",
+    "ru": "Трудно ходить по воздуху.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:2354"
+    ]
+  },
+  {
+    "en": "You are carrying too much to climb out of the water.",
+    "ru": "У вас слишком много вещей, чтобы выбраться из воды.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:2387"
+    ]
+  },
+  {
+    "en": "You don't have enough stamina to move.",
+    "ru": "У вас не хватает сил, чтобы двигаться.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:2626"
+    ]
+  },
+  {
+    "en": "You collapse under your load.",
+    "ru": "Вы падаете под тяжестью груза.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:2629"
+    ]
+  },
+  {
+    "en": "You pass out from exertion!",
+    "ru": "Вы теряете сознание от перенапряжения!",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3043"
+    ]
+  },
+  {
+    "en": "You can't levitate in here.",
+    "ru": "Здесь нельзя левитировать.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3189"
+    ]
+  },
+  {
+    "en": "You can't fly in here.",
+    "ru": "Здесь нельзя летать.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3201"
+    ]
+  },
+  {
+    "en": "You start flying.",
+    "ru": "Вы начинаете лететь.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3210"
+    ]
+  },
+  {
+    "en": "You pop into an air bubble.",
+    "ru": "Вы попадаете в воздушный пузырь.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3242"
+    ]
+  },
+  {
+    "en": "You slowly rise above the surface.",
+    "ru": "Вы медленно поднимаетесь над поверхностью.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3256"
+    ]
+  },
+  {
+    "en": "You have an uncanny feeling...",
+    "ru": "Вас охватывает странное, жутковатое чувство...",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3691"
+    ]
+  },
+  {
+    "en": "You enter a giant beehive!",
+    "ru": "Вы входите в гигантский улей!",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3694"
+    ]
+  },
+  {
+    "en": "You enter an anthole!",
+    "ru": "Вы входите в муравейник!",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3700"
+    ]
+  },
+  {
+    "en": "You enter a military barracks!",
+    "ru": "Вы входите в военную казарму!",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3707"
+    ]
+  },
+  {
+    "en": "You enter an abandoned barracks.",
+    "ru": "Вы входите в заброшенную казарму.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3709"
+    ]
+  },
+  {
+    "en": "You can't reach the bottom to pick things up.",
+    "ru": "Вы не можете достать до дна, чтобы поднять вещи.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3820"
+    ]
+  },
+  {
+    "en": "You don't need a gravestone.  Yet.",
+    "ru": "Вам не нужно надгробие. Пока что.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3835"
+    ]
+  },
+  {
+    "en": "It won't come off the hinges.",
+    "ru": "С петель не снимается.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3839"
+    ]
+  },
+  {
+    "en": "Moving the altar would be a very bad idea.",
+    "ru": "Двигать алтарь было бы очень плохой идеей.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3841"
+    ]
+  },
+  {
+    "en": "There is nothing here to pick up.",
+    "ru": "Здесь нечего поднимать.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3845"
+    ]
+  },
+  {
+    "en": "You cannot reach the bottom of the pit.",
+    "ru": "Вы не можете достать до дна ямы.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3853"
+    ]
+  },
+  {
+    "en": "You cannot reach anything here.",
+    "ru": "Здесь вы ни до чего не можете дотянуться.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3857"
+    ]
+  },
+  {
+    "en": "You cannot move diagonally.",
+    "ru": "Вы не можете двигаться по диагонали.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3908"
+    ]
+  },
+  {
+    "en": "You stop in front of the door.",
+    "ru": "Вы останавливаетесь перед дверью.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:3970"
+    ]
+  },
+  {
+    "en": "You can't do that while carrying so much stuff.",
+    "ru": "Вы не можете сделать это с таким количеством вещей.",
+    "kind": "game",
+    "sources": [
+      "src/hack.c:4405",
+      "src/steed.c:249"
+    ]
+  },
+  {
+    "en": "This doorway has no door.",
+    "ru": "В этом проёме нет двери.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:81",
+      "src/lock.c:596",
+      "src/lock.c:1021"
+    ]
+  },
+  {
+    "en": "You cannot lock an open door.",
+    "ru": "Нельзя запереть открытую дверь.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:84",
+      "src/lock.c:599"
+    ]
+  },
+  {
+    "en": "This door is broken.",
+    "ru": "Эта дверь сломана.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:87",
+      "src/lock.c:602",
+      "src/lock.c:1026",
+      "src/trap.c:6059"
+    ]
+  },
+  {
+    "en": "You find a trap!",
+    "ru": "Вы обнаруживаете ловушку!",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:110"
+    ]
+  },
+  {
+    "en": "You give up your attempt to force the lock.",
+    "ru": "Вы прекращаете попытку взломать замок.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:222",
+      "src/lock.c:237"
+    ]
+  },
+  {
+    "en": "You succeed in forcing the lock.",
+    "ru": "Вам удаётся взломать замок.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:247"
+    ]
+  },
+  {
+    "en": "There doesn't seem to be any sort of lock here.",
+    "ru": "Похоже, здесь вообще нет замка.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:543"
+    ]
+  },
+  {
+    "en": "You can't reach over the edge of the pit.",
+    "ru": "Вы не можете дотянуться за край ямы.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:552",
+      "src/lock.c:816",
+      "src/lock.c:970"
+    ]
+  },
+  {
+    "en": "You can't lock a door with a credit card.",
+    "ru": "Кредитной картой нельзя запереть дверь.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:616"
+    ]
+  },
+  {
+    "en": "You can't force anything from inside here.",
+    "ru": "Отсюда, изнутри, вы ничего не можете взломать.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:688"
+    ]
+  },
+  {
+    "en": "You resume your attempt to force the lock.",
+    "ru": "Вы возобновляете попытку взломать замок.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:709"
+    ]
+  },
+  {
+    "en": "You decide not to force the issue.",
+    "ru": "Вы решаете обойтись без взлома.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:754"
+    ]
+  },
+  {
+    "en": "You can't open anything -- you have no hands!",
+    "ru": "Вы ничего не можете открыть: у вас нет рук!",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:789"
+    ]
+  },
+  {
+    "en": "There is no obvious way to open the drawbridge.",
+    "ru": "Непонятно, как открыть подъёмный мост.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:844"
+    ]
+  },
+  {
+    "en": "You're too small to pull the door open.",
+    "ru": "Вы слишком малы, чтобы потянуть дверь и открыть её.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:899"
+    ]
+  },
+  {
+    "en": "You can't close anything -- you have no hands!",
+    "ru": "Вы ничего не можете закрыть: у вас нет рук!",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:965"
+    ]
+  },
+  {
+    "en": "You are in the way!",
+    "ru": "Вы сами мешаете!",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:980"
+    ]
+  },
+  {
+    "en": "There is no obvious way to close the drawbridge.",
+    "ru": "Непонятно, как закрыть подъёмный мост.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1012"
+    ]
+  },
+  {
+    "en": "This door is already closed.",
+    "ru": "Эта дверь уже закрыта.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1029"
+    ]
+  },
+  {
+    "en": "You're too small to push the door closed.",
+    "ru": "Вы слишком малы, чтобы толкнуть дверь и закрыть её.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1035"
+    ]
+  },
+  {
+    "en": "A door appears in the wall!",
+    "ru": "В стене появляется дверь!",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1123"
+    ]
+  },
+  {
+    "en": "You hear a swoosh.",
+    "ru": "Вы слышите свист.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1146"
+    ]
+  },
+  {
+    "en": "You hear a crashing sound.",
+    "ru": "Вы слышите грохот.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1244"
+    ]
+  },
+  {
+    "en": "You turn to stone.",
+    "ru": "Вы обращаетесь в камень.",
+    "kind": "game",
+    "sources": [
+      "src/dothrow.c:1408",
+      "src/eat.c:805"
+    ]
+  },
+  {
+    "en": "You feel like a glutton!",
+    "ru": "Вы чувствуете себя обжорой!",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:253"
+    ]
+  },
+  {
+    "en": "You choke, but recover your composure.",
+    "ru": "Вы давитесь, но приходите в себя.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:261"
+    ]
+  },
+  {
+    "en": "You stuff yourself and then vomit voluminously.",
+    "ru": "Вы объедаетесь, после чего вас обильно рвёт.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:264"
+    ]
+  },
+  {
+    "en": "You die...",
+    "ru": "Вы умираете...",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:285"
+    ]
+  },
+  {
+    "en": "Your brain is eaten!",
+    "ru": "Ваш мозг съеден!",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:627"
+    ]
+  },
+  {
+    "en": "You have a sad thought for a moment, then it passes.",
+    "ru": "На миг вам приходит грустная мысль, но вскоре исчезает.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:653"
+    ]
+  },
+  {
+    "en": "Ingesting that is fatal.",
+    "ru": "Употребление этого в пищу смертельно.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:669"
+    ]
+  },
+  {
+    "en": "Your last thought fades away.",
+    "ru": "Ваша последняя мысль угасает.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:711"
+    ]
+  },
+  {
+    "en": "You don't feel very well.",
+    "ru": "Вы неважно себя чувствуете.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:853",
+      "src/uhitm.c:3569"
+    ]
+  },
+  {
+    "en": "You feel wide awake.",
+    "ru": "Вы чувствуете себя совершенно бодро.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1021",
+      "src/eat.c:2366"
+    ]
+  },
+  {
+    "en": "You feel hidden!",
+    "ru": "Вы чувствуете себя скрытыми от чужих глаз!",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1169"
+    ]
+  },
+  {
+    "en": "You seem slower.",
+    "ru": "Кажется, вы стали медленнее.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1231"
+    ]
+  },
+  {
+    "en": "You seem faster.",
+    "ru": "Кажется, вы стали быстрее.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1234"
+    ]
+  },
+  {
+    "en": "You feel momentarily different.",
+    "ru": "На миг вы чувствуете себя иначе.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1249",
+      "src/trap.c:2488"
+    ]
+  },
+  {
+    "en": "You feel guilty.",
+    "ru": "Вы чувствуете вину.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1380",
+      "src/read.c:1984"
+    ]
+  },
+  {
+    "en": "It turns out to be empty.",
+    "ru": "Оказывается, внутри пусто.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1554",
+      "src/potion.c:2821"
+    ]
+  },
+  {
+    "en": "You discard the open tin.",
+    "ru": "Вы выбрасываете открытую консервную банку.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1587",
+      "src/eat.c:1659"
+    ]
+  },
+  {
+    "en": "It contains spinach.",
+    "ru": "Внутри шпинат.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1652"
+    ]
+  },
+  {
+    "en": "You give up your attempt to open the tin.",
+    "ru": "Вы прекращаете попытку открыть консервную банку.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1711"
+    ]
+  },
+  {
+    "en": "You cannot handle the tin properly to open it.",
+    "ru": "Вы не можете как следует взяться за консервную банку, чтобы открыть её.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1732"
+    ]
+  },
+  {
+    "en": "It is not so easy to open this tin.",
+    "ru": "Открыть эту консервную банку не так-то просто.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1772"
+    ]
+  },
+  {
+    "en": "Everything suddenly goes dark.",
+    "ru": "Всё внезапно погружается во тьму.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1824"
+    ]
+  },
+  {
+    "en": "You seem unaffected by the poison.",
+    "ru": "Кажется, яд на вас не подействовал.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1936",
+      "src/eat.c:2800"
+    ]
+  },
+  {
+    "en": "This tastes just like chicken!",
+    "ru": "По вкусу совсем как курица!",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:1973"
+    ]
+  },
+  {
+    "en": "Ugh.  Rotten egg.",
+    "ru": "Фу. Тухлое яйцо.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2111"
+    ]
+  },
+  {
+    "en": "Needs salt...",
+    "ru": "Не хватает соли...",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2447"
+    ]
+  },
+  {
+    "en": "You fall asleep.",
+    "ru": "Вы засыпаете.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2590",
+      "src/timeout.c:788"
+    ]
+  },
+  {
+    "en": "You hear sinister laughter as you fall asleep...",
+    "ru": "Засыпая, вы слышите зловещий смех...",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2593"
+    ]
+  },
+  {
+    "en": "You pause to swallow.",
+    "ru": "Вы останавливаетесь, чтобы проглотить пищу.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2855"
+    ]
+  },
+  {
+    "en": "You cannot eat that!",
+    "ru": "Вы не можете это съесть!",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2865"
+    ]
+  },
+  {
+    "en": "This ring is indigestible!",
+    "ru": "Это кольцо не переваривается!",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:2913"
+    ]
+  },
+  {
+    "en": "You have no tin to open.",
+    "ru": "У вас нет консервной банки, которую можно открыть.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:3104"
+    ]
+  },
+  {
+    "en": "You faint from lack of food.",
+    "ru": "Вы падаете в обморок от голода.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:3422"
+    ]
+  },
+  {
+    "en": "You die from starvation.",
+    "ru": "Вы умираете от голода.",
+    "kind": "game",
+    "sources": [
+      "src/eat.c:3441"
+    ]
+  },
+  {
+    "en": "You find yourself on dry land again!",
+    "ru": "Вы снова оказываетесь на суше!",
+    "kind": "game",
+    "sources": [
+      "src/do.c:131"
+    ]
+  },
+  {
+    "en": "It sinks without a trace!",
+    "ru": "Бесследно тонет!",
+    "kind": "game",
+    "sources": [
+      "src/do.c:143"
+    ]
+  },
+  {
+    "en": "You hear a shattering noise.",
+    "ru": "Вы слышите звон разбивающегося предмета.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:350"
+    ]
+  },
+  {
+    "en": "You hear loud noises coming from the drain.",
+    "ru": "Из слива доносятся громкие звуки.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:532"
+    ]
+  },
+  {
+    "en": "Several flies buzz around the sink.",
+    "ru": "Вокруг раковины жужжат несколько мух.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:573"
+    ]
+  },
+  {
+    "en": "You don't see anything happen to the sink.",
+    "ru": "Вы не замечаете никаких изменений с раковиной.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:602"
+    ]
+  },
+  {
+    "en": "You hear the ring bouncing down the drainpipe.",
+    "ru": "Вы слышите, как кольцо, ударяясь о стенки, падает по сливной трубе.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:647"
+    ]
+  },
+  {
+    "en": "You have nothing to drop.",
+    "ru": "Вам нечего бросать.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:929"
+    ]
+  },
+  {
+    "en": "You are held back by your pet!",
+    "ru": "Ваш питомец не даёт вам уйти!",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1252",
+      "src/do.c:1337"
+    ]
+  },
+  {
+    "en": "You can't go up here.",
+    "ru": "Здесь нельзя подняться наверх.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1314"
+    ]
+  },
+  {
+    "en": "A mysterious force momentarily surrounds you...",
+    "ru": "На миг вас окружает таинственная сила...",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1558"
+    ]
+  },
+  {
+    "en": "A mysterious force prevents you from descending.",
+    "ru": "Таинственная сила не даёт вам спуститься.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1579"
+    ]
+  },
+  {
+    "en": "You arrive at the Valley of the Dead...",
+    "ru": "Вы прибываете в Долину мёртвых...",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1863"
+    ]
+  },
+  {
+    "en": "You hear groans and moans everywhere.",
+    "ru": "Со всех сторон доносятся стоны.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1869"
+    ]
+  },
+  {
+    "en": "An alarm sounds!",
+    "ru": "Раздаётся сигнал тревоги!",
+    "kind": "game",
+    "sources": [
+      "src/do.c:1898",
+      "src/shk.c:520"
+    ]
+  },
+  {
+    "en": "You are out of the cold.",
+    "ru": "Вы больше не на холоде.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:2026"
+    ]
+  },
+  {
+    "en": "You feel squirming in your backpack!",
+    "ru": "Вы чувствуете, как что-то шевелится у вас в рюкзаке!",
+    "kind": "game",
+    "sources": [
+      "src/do.c:2158"
+    ]
+  },
+  {
+    "en": "You hear scratching noises.",
+    "ru": "Вы слышите скребущие звуки.",
+    "kind": "game",
+    "sources": [
+      "src/do.c:2231"
+    ]
+  },
+  {
+    "en": "You move very quietly.",
+    "ru": "Вы двигаетесь очень тихо.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:125"
+    ]
+  },
+  {
+    "en": "You walk very quietly.",
+    "ru": "Вы ходите очень тихо.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:129"
+    ]
+  },
+  {
+    "en": "You slow down.",
+    "ru": "Вы замедляетесь.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:826",
+      "src/mhitu.c:167"
+    ]
+  },
+  {
+    "en": "You are no longer bothered by the poison gas.",
+    "ru": "Ядовитый газ больше вам не мешает.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:990"
+    ]
+  },
+  {
+    "en": "You don't feel like yourself.",
+    "ru": "Вы чувствуете себя не собой.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1025"
+    ]
+  },
+  {
+    "en": "It constricts your throat!",
+    "ru": "Это сдавливает вам горло!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1044"
+    ]
+  },
+  {
+    "en": "You are now in flight.",
+    "ru": "Теперь вы летите.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1073"
+    ]
+  },
+  {
+    "en": "You are breathing poison gas!",
+    "ru": "Вы вдыхаете ядовитый газ!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1130"
+    ]
+  },
+  {
+    "en": "You can breathe more easily!",
+    "ru": "Вам становится легче дышать!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1145"
+    ]
+  },
+  {
+    "en": "Suddenly you cannot see yourself.",
+    "ru": "Внезапно вы перестаёте видеть себя.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1394"
+    ]
+  },
+  {
+    "en": "You can't see any more.",
+    "ru": "Вы больше ничего не видите.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1473"
+    ]
+  },
+  {
+    "en": "For the first time in your life, you can see!",
+    "ru": "Впервые в жизни вы можете видеть!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1484"
+    ]
+  },
+  {
+    "en": "You can see!",
+    "ru": "Вы можете видеть!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1487"
+    ]
+  },
+  {
+    "en": "You still cannot see.",
+    "ru": "Вы по-прежнему ничего не видите.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1516"
+    ]
+  },
+  {
+    "en": "You can't see anything now!",
+    "ru": "Теперь вы ничего не видите!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1520"
+    ]
+  },
+  {
+    "en": "You can see again.",
+    "ru": "Вы снова можете видеть.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1528",
+      "src/potion.c:282"
+    ]
+  },
+  {
+    "en": "You are not wearing that.",
+    "ru": "На вас это не надето.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:1774"
+    ]
+  },
+  {
+    "en": "You can't wear any armor in your current form.",
+    "ru": "В нынешнем облике вы не можете носить доспехи.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2039"
+    ]
+  },
+  {
+    "en": "You cannot wear a shield while wielding two weapons.",
+    "ru": "Нельзя носить щит, сражаясь оружием в обеих руках.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2098"
+    ]
+  },
+  {
+    "en": "You have no feet...",
+    "ru": "У вас нет ступней...",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2109"
+    ]
+  },
+  {
+    "en": "You cannot make the ring stick to your body.",
+    "ru": "Вы не можете закрепить кольцо на своём теле.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2255"
+    ]
+  },
+  {
+    "en": "You can't wear that!",
+    "ru": "Вы не можете это надеть!",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2350"
+    ]
+  },
+  {
+    "en": "You are already wearing a full complement of armor.",
+    "ru": "На вас уже надет полный комплект доспехов.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2445"
+    ]
+  },
+  {
+    "en": "You are no longer wielding either weapon.",
+    "ru": "Вы больше не держите наготове оружие ни в одной руке.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2835"
+    ]
+  },
+  {
+    "en": "You no longer have ammunition readied.",
+    "ru": "У вас больше нет подготовленных боеприпасов.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:2846"
+    ]
+  },
+  {
+    "en": "You are not wearing anything.",
+    "ru": "На вас ничего не надето.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:3032"
+    ]
+  },
+  {
+    "en": "There is nothing else you can remove or unwield.",
+    "ru": "Больше нечего снимать или убирать из рук.",
+    "kind": "game",
+    "sources": [
+      "src/do_wear.c:3135"
+    ]
+  },
+  {
+    "en": "You have no hands!",
+    "ru": "У вас нет рук!",
+    "kind": "game",
+    "sources": [
+      "src/apply.c:328",
+      "src/pickup.c:2199",
+      "src/pickup.c:2946"
+    ]
+  },
+  {
+    "en": "You are physically incapable of picking anything up.",
+    "ru": "Ваше тело не позволяет вам поднимать предметы.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:730"
+    ]
+  },
+  {
+    "en": "You can't pick yourself up!",
+    "ru": "Вы не можете поднять самих себя!",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:1182"
+    ]
+  },
+  {
+    "en": "No relevant items selected.",
+    "ru": "Подходящие предметы не выбраны.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:1501"
+    ]
+  },
+  {
+    "en": "Your movements are slowed slightly because of your load.",
+    "ru": "Груз немного замедляет ваши движения.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:1985"
+    ]
+  },
+  {
+    "en": "You rebalance your load.  Movement is difficult.",
+    "ru": "Вы перераспределяете груз. Двигаться трудно.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:1988"
+    ]
+  },
+  {
+    "en": "Your movements are now unencumbered.",
+    "ru": "Теперь груз не стесняет ваших движений.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2003"
+    ]
+  },
+  {
+    "en": "Your movements are only slowed slightly by your load.",
+    "ru": "Теперь груз лишь немного замедляет ваши движения.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2006"
+    ]
+  },
+  {
+    "en": "You rebalance your load.  Movement is still difficult.",
+    "ru": "Вы перераспределяете груз. Двигаться всё ещё трудно.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2009"
+    ]
+  },
+  {
+    "en": "Being confused, you find nothing to loot.",
+    "ru": "Из-за замешательства вы не находите ничего, что можно обыскать.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2206"
+    ]
+  },
+  {
+    "en": "You need to dig up the grave to effectively loot it...",
+    "ru": "Чтобы обыскать могилу, сначала нужно её раскопать...",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2289"
+    ]
+  },
+  {
+    "en": "You have to be at a container to loot it.",
+    "ru": "Чтобы обыскать вместилище, нужно находиться возле него.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2332"
+    ]
+  },
+  {
+    "en": "You can't do that without limbs.",
+    "ru": "Без конечностей вы не можете этого сделать.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:2450"
+    ]
+  },
+  {
+    "en": "Nothing interesting happens.",
+    "ru": "Ничего интересного не происходит.",
+    "kind": "game",
+    "sources": [
+      "src/pickup.c:3673"
+    ]
+  },
+  {
+    "en": "You feel better.",
+    "ru": "Вы чувствуете себя лучше.",
+    "kind": "game",
+    "sources": [
+      "src/artifact.c:1788",
+      "src/potion.c:1121",
+      "src/pray.c:414"
+    ]
+  },
+  {
+    "en": "You are frozen in place!",
+    "ru": "Вы застываете на месте!",
+    "kind": "game",
+    "sources": [
+      "src/mcastu.c:758",
+      "src/potion.c:889"
+    ]
+  },
+  {
+    "en": "You wobble in the saddle.",
+    "ru": "Вы пошатываетесь в седле.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:122"
+    ]
+  },
+  {
+    "en": "You feel deathly sick.",
+    "ru": "Вы чувствуете смертельное недомогание.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:154"
+    ]
+  },
+  {
+    "en": "You feel somewhat better.",
+    "ru": "Вы чувствуете себя немного лучше.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:168"
+    ]
+  },
+  {
+    "en": "You feel cured.  What a relief!",
+    "ru": "Вы чувствуете, что выздоровели. Какое облегчение!",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:172"
+    ]
+  },
+  {
+    "en": "You feel much less nauseated now.",
+    "ru": "Теперь вас гораздо меньше тошнит.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:254"
+    ]
+  },
+  {
+    "en": "A cloud of darkness falls upon you.",
+    "ru": "На вас опускается облако тьмы.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:305"
+    ]
+  },
+  {
+    "en": "This bottle turns out to be empty.",
+    "ru": "Эта бутылка оказывается пустой.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:486"
+    ]
+  },
+  {
+    "en": "You are frightened to death, and unable to move.",
+    "ru": "Вы до смерти напуганы и не можете пошевелиться.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:496",
+      "src/priest.c:532"
+    ]
+  },
+  {
+    "en": "You feel quite proud of yourself.",
+    "ru": "Вы весьма гордитесь собой.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:741"
+    ]
+  },
+  {
+    "en": "You feel full of awe.",
+    "ru": "Вас переполняет благоговение.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:749"
+    ]
+  },
+  {
+    "en": "You feel full of dread.",
+    "ru": "Вас переполняет ужас.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:762"
+    ]
+  },
+  {
+    "en": "You pass out.",
+    "ru": "Вы теряете сознание.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:788"
+    ]
+  },
+  {
+    "en": "You have an uneasy feeling...",
+    "ru": "Вас охватывает тревожное чувство...",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:799"
+    ]
+  },
+  {
+    "en": "You stiffen momentarily.",
+    "ru": "На миг вы цепенеете.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:884",
+      "src/potion.c:2050"
+    ]
+  },
+  {
+    "en": "You yawn.",
+    "ru": "Вы зеваете.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:905",
+      "src/potion.c:2061",
+      "src/timeout.c:273"
+    ]
+  },
+  {
+    "en": "You suddenly fall asleep!",
+    "ru": "Вы внезапно засыпаете!",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:907"
+    ]
+  },
+  {
+    "en": "You feel lonely.",
+    "ru": "Вы чувствуете одиночество.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:944"
+    ]
+  },
+  {
+    "en": "You are shocked back to your senses!",
+    "ru": "Потрясение приводит вас в чувство!",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1008"
+    ]
+  },
+  {
+    "en": "It tasted bad.",
+    "ru": "На вкус было скверно.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1100"
+    ]
+  },
+  {
+    "en": "You have an uneasy feeling.",
+    "ru": "Вас охватывает тревожное чувство.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1107"
+    ]
+  },
+  {
+    "en": "You feel much better.",
+    "ru": "Вы чувствуете себя намного лучше.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1130",
+      "src/pray.c:425"
+    ]
+  },
+  {
+    "en": "You feel completely healed.",
+    "ru": "Вы чувствуете, что полностью исцелились.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1146"
+    ]
+  },
+  {
+    "en": "Magical energies course through your body.",
+    "ru": "По вашему телу струится магическая энергия.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1231"
+    ]
+  },
+  {
+    "en": "Ahh, a refreshing drink.",
+    "ru": "Ах, какой освежающий напиток.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1266"
+    ]
+  },
+  {
+    "en": "Some vapor passes harmlessly around you.",
+    "ru": "Вас окутывает пар, не причиняя вреда.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:1948"
+    ]
+  },
+  {
+    "en": "You have a momentary vision.",
+    "ru": "На миг перед вами возникает видение.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2025"
+    ]
+  },
+  {
+    "en": "You feel somewhat dizzy.",
+    "ru": "У вас слегка кружится голова.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2030"
+    ]
+  },
+  {
+    "en": "You feel rather tired.",
+    "ru": "Вы чувствуете заметную усталость.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2055"
+    ]
+  },
+  {
+    "en": "Your knees seem more flexible now.",
+    "ru": "Кажется, ваши колени стали гибче.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2067"
+    ]
+  },
+  {
+    "en": "It suddenly gets dark.",
+    "ru": "Внезапно темнеет.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2074"
+    ]
+  },
+  {
+    "en": "Something happens.",
+    "ru": "Что-то происходит.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2769"
+    ]
+  },
+  {
+    "en": "Interesting...",
+    "ru": "Интересно...",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2790"
+    ]
+  },
+  {
+    "en": "You smell acrid fumes.",
+    "ru": "Вы чувствуете запах едких испарений.",
+    "kind": "game",
+    "sources": [
+      "src/potion.c:2829"
+    ]
+  },
+  {
+    "en": "You have a feeling of loss.",
+    "ru": "Вас охватывает чувство утраты.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1003"
+    ]
+  },
+  {
+    "en": "You feel confused.",
+    "ru": "Вы чувствуете замешательство.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1410"
+    ]
+  },
+  {
+    "en": "Your weapon feels warm for a moment.",
+    "ru": "На миг ваше оружие становится тёплым.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1646"
+    ]
+  },
+  {
+    "en": "You have found a scroll of genocide!",
+    "ru": "Вы нашли свиток геноцида!",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1732"
+    ]
+  },
+  {
+    "en": "Tiny lights sparkle in the air momentarily.",
+    "ru": "В воздухе на миг вспыхивают крохотные огоньки.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1760"
+    ]
+  },
+  {
+    "en": "Lights appear all around you!",
+    "ru": "Вокруг вас появляются огни!",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1780"
+    ]
+  },
+  {
+    "en": "Your mind releases itself from mundane concerns.",
+    "ru": "Ваш разум освобождается от мирских забот.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1838"
+    ]
+  },
+  {
+    "en": "As your mind turns inward on itself, you forget everything else.",
+    "ru": "Погружаясь в собственные мысли, вы забываете обо всём остальном.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1840"
+    ]
+  },
+  {
+    "en": "This is a scroll of fire!",
+    "ru": "Это свиток огня!",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1895"
+    ]
+  },
+  {
+    "en": "You hear rumbling.",
+    "ru": "Вы слышите грохот.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1934"
+    ]
+  },
+  {
+    "en": "But nothing else happens.",
+    "ru": "Но больше ничего не происходит.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1971"
+    ]
+  },
+  {
+    "en": "You have found a scroll of stinking cloud!",
+    "ru": "Вы нашли свиток зловонного облака!",
+    "kind": "game",
+    "sources": [
+      "src/read.c:1999"
+    ]
+  },
+  {
+    "en": "This scroll seems to be blank.",
+    "ru": "Кажется, этот свиток пуст.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2010"
+    ]
+  },
+  {
+    "en": "You identify this as an identify scroll.",
+    "ru": "Вы определяете, что это свиток идентификации.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2075"
+    ]
+  },
+  {
+    "en": "This is an identify scroll.",
+    "ru": "Это свиток идентификации.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2077"
+    ]
+  },
+  {
+    "en": "A map coalesces in your mind!",
+    "ru": "В вашем сознании складывается карта!",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2142"
+    ]
+  },
+  {
+    "en": "Unfortunately, you can't grasp the details.",
+    "ru": "К сожалению, вам не удаётся разобрать подробности.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2151"
+    ]
+  },
+  {
+    "en": "You hear a clanging sound.",
+    "ru": "Вы слышите лязг.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2376"
+    ]
+  },
+  {
+    "en": "It seems even darker in here than before.",
+    "ru": "Кажется, здесь стало ещё темнее.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2538"
+    ]
+  },
+  {
+    "en": "You are surrounded by darkness!",
+    "ru": "Вас окружает тьма!",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2540"
+    ]
+  },
+  {
+    "en": "All such monsters are already nonexistent.",
+    "ru": "Таких чудовищ уже не существует.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2702"
+    ]
+  },
+  {
+    "en": "You aren't permitted to genocide such monsters.",
+    "ru": "Вам не позволено истреблять таких чудовищ.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:2704"
+    ]
+  },
+  {
+    "en": "Your iron ball gets heavier.",
+    "ru": "Ваше железное ядро становится тяжелее.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:3032"
+    ]
+  },
+  {
+    "en": "A ball and chain appears, then falls away.",
+    "ru": "Появляется ядро с цепью, но тут же отваливается.",
+    "kind": "game",
+    "sources": [
+      "src/read.c:3039"
+    ]
+  },
+  {
+    "en": "You explode!",
+    "ru": "Вы взрываетесь!",
+    "kind": "game",
+    "sources": [
+      "src/mhitu.c:2527",
+      "src/uhitm.c:5765"
+    ]
+  },
+  {
+    "en": "You rust!",
+    "ru": "Вы ржавеете!",
+    "kind": "game",
+    "sources": [
+      "src/trap.c:5091",
+      "src/uhitm.c:2306"
+    ]
+  },
+  {
+    "en": "You momentarily stiffen.",
+    "ru": "На миг вы цепенеете.",
+    "kind": "game",
+    "sources": [
+      "src/trap.c:6469",
+      "src/uhitm.c:3449",
+      "src/uhitm.c:6055"
+    ]
+  },
+  {
+    "en": "You avoid harm.",
+    "ru": "Вы избегаете повреждений.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:92"
+    ]
+  },
+  {
+    "en": "Wait!  There's a hidden monster there!",
+    "ru": "Постойте! Там прячется чудовище!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:290"
+    ]
+  },
+  {
+    "en": "You have no way to attack monsters physically.",
+    "ru": "Вы не способны атаковать чудовищ физически.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:526"
+    ]
+  },
+  {
+    "en": "You miss wildly and stumble forwards.",
+    "ru": "Вы сильно промахиваетесь и, споткнувшись, подаётесь вперёд.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:561"
+    ]
+  },
+  {
+    "en": "Your bloodthirsty blade attacks!",
+    "ru": "Ваш кровожадный клинок атакует!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:606"
+    ]
+  },
+  {
+    "en": "You hit it.",
+    "ru": "Вы попадаете по цели.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:1649"
+    ]
+  },
+  {
+    "en": "You rot!",
+    "ru": "Вы гниёте!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:2384"
+    ]
+  },
+  {
+    "en": "You go up in flames!",
+    "ru": "Вы вспыхиваете пламенем!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:2567"
+    ]
+  },
+  {
+    "en": "You're covered in frost!",
+    "ru": "Вы покрываетесь инеем!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:2652"
+    ]
+  },
+  {
+    "en": "Your purse feels heavier.",
+    "ru": "Кажется, ваш кошелёк стал тяжелее.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:2806"
+    ]
+  },
+  {
+    "en": "You are not affected.",
+    "ru": "Это на вас не действует.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:2890"
+    ]
+  },
+  {
+    "en": "You chuckle.",
+    "ru": "Вы усмехаетесь.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3033"
+    ]
+  },
+  {
+    "en": "You hear laughter.",
+    "ru": "Вы слышите смех.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3046",
+      "src/uhitm.c:3090"
+    ]
+  },
+  {
+    "en": "You don't seem harmed.",
+    "ru": "Похоже, вы не пострадали.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3226"
+    ]
+  },
+  {
+    "en": "You are being crushed.",
+    "ru": "Вас сдавливают.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3403"
+    ]
+  },
+  {
+    "en": "You are frozen!",
+    "ru": "Вы заморожены!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3452"
+    ]
+  },
+  {
+    "en": "You are put to sleep!",
+    "ru": "Вас усыпляют!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3504"
+    ]
+  },
+  {
+    "en": "You escape harm.",
+    "ru": "Вы избегаете повреждений.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3558"
+    ]
+  },
+  {
+    "en": "You are unaffected.",
+    "ru": "Это на вас не действует.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3566"
+    ]
+  },
+  {
+    "en": "You are getting even more confused.",
+    "ru": "Ваше замешательство усиливается.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3707"
+    ]
+  },
+  {
+    "en": "You are getting confused.",
+    "ru": "Вы впадаете в замешательство.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3709"
+    ]
+  },
+  {
+    "en": "You aren't transformed.",
+    "ru": "Вы не превращаетесь.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3757"
+    ]
+  },
+  {
+    "en": "Was that the touch of death?",
+    "ru": "Неужели это было прикосновение смерти?",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3855"
+    ]
+  },
+  {
+    "en": "You feel your life force draining away...",
+    "ru": "Вы чувствуете, как утекают ваши жизненные силы...",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:3870"
+    ]
+  },
+  {
+    "en": "You hear hissing.",
+    "ru": "Вы слышите шипение.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:4222"
+    ]
+  },
+  {
+    "en": "You feel embarrassed for a moment.",
+    "ru": "На миг вы испытываете смущение.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:4870"
+    ]
+  },
+  {
+    "en": "You destroy it!",
+    "ru": "Вы уничтожаете цель!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:4874"
+    ]
+  },
+  {
+    "en": "Your armor is rather cumbersome...",
+    "ru": "Ваши доспехи довольно громоздки...",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:5204"
+    ]
+  },
+  {
+    "en": "You miss it.",
+    "ru": "Вы промахиваетесь по цели.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:5211"
+    ]
+  },
+  {
+    "en": "You feel a mild chill.",
+    "ru": "Вы чувствуете лёгкий холодок.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:6070"
+    ]
+  },
+  {
+    "en": "You are suddenly very cold!",
+    "ru": "Вам внезапно становится очень холодно!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:6076"
+    ]
+  },
+  {
+    "en": "You feel mildly warm.",
+    "ru": "Вы чувствуете лёгкое тепло.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:6093"
+    ]
+  },
+  {
+    "en": "You are suddenly very hot!",
+    "ru": "Вам внезапно становится очень жарко!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:6099"
+    ]
+  },
+  {
+    "en": "You feel a mild tingle.",
+    "ru": "Вы чувствуете лёгкое покалывание.",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:6106"
+    ]
+  },
+  {
+    "en": "You are jolted with electricity!",
+    "ru": "Вас бьёт электрическим разрядом!",
+    "kind": "game",
+    "sources": [
+      "src/uhitm.c:6112"
+    ]
+  },
+  {
+    "en": "Your amulet vanishes!",
+    "ru": "Ваш амулет исчезает!",
+    "kind": "game",
+    "sources": [
+      "src/pray.c:390",
+      "src/timeout.c:898"
+    ]
+  },
+  {
+    "en": "You have recovered from your illness.",
+    "ru": "Вы оправились от болезни.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:697"
+    ]
+  },
+  {
+    "en": "You land.",
+    "ru": "Вы приземляетесь.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:809"
+    ]
+  },
+  {
+    "en": "You no longer feel safe from acid.",
+    "ru": "Вы больше не чувствуете защиты от кислоты.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:823"
+    ]
+  },
+  {
+    "en": "You no longer feel secure from petrification.",
+    "ru": "Вы больше не чувствуете защиты от окаменения.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:836"
+    ]
+  },
+  {
+    "en": "Your temporary ability to survive burning has ended.",
+    "ru": "Ваша временная способность выживать в огне иссякла.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:851"
+    ]
+  },
+  {
+    "en": "Your temporary ability to walk on liquid has ended.",
+    "ru": "Ваша временная способность ходить по жидкости иссякла.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:856"
+    ]
+  },
+  {
+    "en": "You make a lot of noise!",
+    "ru": "Вы сильно шумите!",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:916"
+    ]
+  },
+  {
+    "en": "You lose your balance.",
+    "ru": "Вы теряете равновесие.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1285"
+    ]
+  },
+  {
+    "en": "You stumble.",
+    "ru": "Вы спотыкаетесь.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1315"
+    ]
+  },
+  {
+    "en": "You let go of the reins.",
+    "ru": "Вы отпускаете поводья.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1329"
+    ]
+  },
+  {
+    "en": "You bang into the saddle-horn.",
+    "ru": "Вы ударяетесь о луку седла.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1332"
+    ]
+  },
+  {
+    "en": "You slide to one side of the saddle.",
+    "ru": "Вы соскальзываете набок в седле.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1335"
+    ]
+  },
+  {
+    "en": "Your lantern is getting dim.",
+    "ru": "Ваш фонарь тускнеет.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1365"
+    ]
+  },
+  {
+    "en": "You hear a rumbling noise.",
+    "ru": "Вы слышите грохочущий звук.",
+    "kind": "game",
+    "sources": [
+      "src/timeout.c:1891"
+    ]
+  },
+  {
+    "en": "You see no door there.",
+    "ru": "Вы не видите там двери.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:851"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "You feel no door there.",
+    "ru": "Вы не нащупываете там двери.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:851"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "This door is locked.",
+    "ru": "Эта дверь заперта.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:870-875"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "This door is already open.",
+    "ru": "Эта дверь уже открыта.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:867-875"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "The door opens.",
+    "ru": "Дверь открывается.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:906"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "The door closes.",
+    "ru": "Дверь закрывается.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1039"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "The door resists!",
+    "ru": "Дверь не поддаётся!",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:919"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "The drawbridge is already open.",
+    "ru": "Подъёмный мост уже открыт.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:846"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "The drawbridge is already closed.",
+    "ru": "Подъёмный мост уже закрыт.",
+    "kind": "game",
+    "sources": [
+      "src/lock.c:1009"
+    ],
+    "verification": "manually verified composed message"
+  },
+  {
+    "en": "Cyrillic test: hedgehog, pike, eat some more.",
+    "ru": "Проверка кириллицы: ёж, щука, съешь ещё.",
+    "kind": "diagnostic",
+    "sources": [
+      "sys/windows/windmain.c (new optional diagnostic)"
+    ]
+  },
+  {
+    "en": "Russian preview: this long message checks wrapping without losing the English original.",
+    "ru": "Тест русификации: это длинное сообщение проверяет переносы строк без потери английского оригинала.",
+    "kind": "diagnostic",
+    "sources": [
+      "sys/windows/windmain.c (new optional diagnostic)"
+    ]
+  },
+  {
+    "en": "Russian preview: test complete.",
+    "ru": "Тест русификации: проверка завершена.",
+    "kind": "diagnostic",
+    "sources": [
+      "sys/windows/windmain.c (new optional diagnostic)"
+    ]
+  }
+]
